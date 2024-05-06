@@ -68,5 +68,5 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/prideeshm/T-FLIPFLOP-POSEDGE/assets/144870483/bbe4c649-b864-47e3-9b05-b9f0d7586564)
 
-**RESULTS**
+**RESULTS:**
 Thus the program to implement a T flipflop using verilog and validating their functionality using their functional tables is successfully completed.
