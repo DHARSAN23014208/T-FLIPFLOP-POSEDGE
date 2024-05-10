@@ -43,7 +43,7 @@ From the above characteristic table, we can directly write the next state equati
 7.Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
 
 **PROGRAM**
-Developed by:PRIDEESH M RegisterNumber:212223040154
+Developed by:DHARSAN KUAMR R RegisterNumber:212223240028
 ```
 module tflipflop( input clk, rst_n, input t,
 output reg q,
@@ -63,10 +63,16 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/prideeshm/T-FLIPFLOP-POSEDGE/assets/144870483/e5ab83ab-da2b-4f5c-886b-16d93567e470)
+
+![image](https://github.com/DHARSAN23014208/T-FLIPFLOP-POSEDGE/assets/149365413/fc4791d5-3592-4c2a-9d50-d6400559ef36)
+
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/prideeshm/T-FLIPFLOP-POSEDGE/assets/144870483/bbe4c649-b864-47e3-9b05-b9f0d7586564)
+
+![image](https://github.com/DHARSAN23014208/T-FLIPFLOP-POSEDGE/assets/149365413/b604538b-94f3-4aae-b321-edb8f5d9c1c7)
+
+
 
 **RESULTS:**
 Thus the program to implement a T flipflop using verilog and validating their functionality using their functional tables is successfully completed.
